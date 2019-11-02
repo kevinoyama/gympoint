@@ -1,2 +1,1 @@
-# gympoint
-Gym manage application
+# bootcamp-gympoint
